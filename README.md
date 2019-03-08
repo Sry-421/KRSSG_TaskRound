@@ -32,8 +32,8 @@
 3. In a new terminal `rosrun turtlesim turtlesim_node`
 4. In a new terminal (in your ROS workspace) `rosrun controller con1.py`
 
- ![RRT*](/relative/show.jpg?raw=true "RRT*")
- ![ROS turtlesim](/relative/show1.jpg?raw=true "ROS turtlesim")
+ ![RRT*](https://github.com/Sry-421/KRSSG_TaskRound/show.jpg?raw=true "RRT*")
+ ![ROS turtlesim](https://github.com/Sry-421/KRSSG_TaskRound/show1.jpg?raw=true "ROS turtlesim")
  
  
  
@@ -56,7 +56,7 @@
 3. In a new terminal (changed utaustin directory) `./start.sh`
 4. In a new terminal (utaustin directory) `./start.sh`
 
-![Roboviz](/relative/show2.jpg?raw=true)
+![Roboviz](https://github.com/Sry-421/KRSSG_TaskRound/show2.jpg?raw=true)
 
 ---
 
